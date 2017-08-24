@@ -1,0 +1,24 @@
+{
+  "name": "http-s-downloading",
+  "version": "0.0.5",
+  "description": "http(s) downloading js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korykim/http-downloading.git"
+  },
+  "keywords": [
+    "http-s-downloading"
+  ],
+  "author": "kory kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korykim/http-downloading/issues"
+  },
+  "homepage": "https://github.com/korykim/http-downloading#readme",
+  "dependencies": {
+  }
+}
